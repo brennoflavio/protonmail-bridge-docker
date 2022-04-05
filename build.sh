@@ -2,7 +2,7 @@
 
 set -ex
 
-VERSION=v2.1.2
+VERSION=v1.4.5 # Old version to build on armv7
 
 git clone https://github.com/ProtonMail/proton-bridge.git
 
